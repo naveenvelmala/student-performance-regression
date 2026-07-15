@@ -1,4 +1,5 @@
 # Student Performance Prediction — Linear Regression, Ridge & Lasso
+🔗 [View this notebook running on Kaggle](https://www.kaggle.com/code/naveenreddyvelmala/student-performance-prediction-linear-regression)
 
 Predicting a student's **Performance Index** (continuous target) from study habits, using
 Linear Regression, Ridge, and Lasso regression, with a comparison of accuracy and coefficients.
